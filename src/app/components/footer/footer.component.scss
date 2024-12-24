@@ -1,0 +1,38 @@
+/* Footer Custom Styles */
+footer {
+    background-color: #222; /* Dark background for the footer */
+  }
+  
+  footer .text-white {
+    color: white !important; /* Ensures text remains white */
+  }
+  
+  footer .text-white:hover {
+    color: #f8f9fa !important; /* Lighter white on hover for better visibility */
+  }
+  
+  footer a {
+    text-decoration: none;
+  }
+  
+  footer a:hover {
+    text-decoration: underline;
+  }
+  
+  footer .fab {
+    font-size: 1.5rem; /* Larger social media icons */
+  }
+  
+  footer .list-unstyled li {
+    margin-bottom: 10px; /* Add space between list items */
+  }
+  
+  footer .py-4 {
+    padding-top: 3rem;
+    padding-bottom: 3rem;
+  }
+  
+  footer .mt-4 {
+    margin-top: 2rem;
+  }
+  
